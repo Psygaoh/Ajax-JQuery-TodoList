@@ -1,0 +1,21 @@
+section {
+	max width: 600px;
+}
+
+#liste1{
+	height: 250px;
+	width: 250px;
+	background-color: yellow;
+}
+
+#liste2{
+	height: 250px;
+	width: 250px;
+	background-color: green;
+	}
+
+	#liste3{
+	height: 250px;
+	width: 250px;
+	background-color: red;
+	}
